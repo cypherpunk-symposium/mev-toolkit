@@ -21,4 +21,5 @@
 
 <br>
 
-* [fair sequencing services](https://blog.chain.link/chainlink-fair-sequencing-services-enabling-a-provably-fair-defi-ecosystem/)
+* **[fair sequencing services (2020)](https://blog.chain.link/chainlink-fair-sequencing-services-enabling-a-provably-fair-defi-ecosystem/)**
+* **[chainlink introduces "smart value recapture" (2024)](https://blog.chain.link/chainlink-smart-value-recapture-svr/)**
