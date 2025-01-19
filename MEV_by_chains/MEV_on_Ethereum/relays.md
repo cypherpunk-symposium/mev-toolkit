@@ -7,11 +7,15 @@
 * relays are a bundle propagation service that receives bundles from searchers, simulate each txs, and forwards them to block producers.
 * validators can use relays to outsource their block production to entities specialized in extracting extra revenue.
 
+<br>
+
+---
+
+### cool resources
 
 <br>
 
-### resources
-
+* **[the role of relays on reorgs, by dataalways (2024)](https://collective.flashbots.net/t/the-role-of-relays-in-reorgs/4247)**
 * **[mev relay list](https://github.com/eth-educators/ethstaker-guides/blob/main/MEV-relay-list.md)**
 * **[everything mev-boost](https://github.com/MEV-WAIFU-LABS/mev_toolkit/blob/main/flashbots/mev-boost/README.md)**
 * **[fb relay api](https://flashbots.notion.site/Relay-API-Spec-5fb0819366954962bc02e81cb33840f5)**
