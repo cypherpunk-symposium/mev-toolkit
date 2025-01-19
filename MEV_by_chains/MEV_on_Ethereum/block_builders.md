@@ -17,35 +17,53 @@
 
 
 <br>
-
-
 <img width="530" src="https://user-images.githubusercontent.com/1130416/217417346-50916961-aaa2-49ef-ad10-2f623a959fa6.png">
-
-
 <br>
 
 ----
 
-### resources
+### cool resources
 
 <br>
 
+#### specs and algorithms
 
-* [builder specs, by the ef](https://github.com/ethereum/builder-specs)
-* [builder opens source, by flashbots](https://github.com/flashbots/builder)
-* [flashbots block building algorithm](https://writings.flashbots.net/searching-post-merge#blockbuilding-algorithm)
-* [etherscan blocks](https://etherscan.io/blocks), [mev blocks](https://etherscan.io/blocks/label/mev-block), and [mev builders](https://etherscan.io/accounts/label/mev-builder)
-* [builder69.io endpoint for searchers (bundle/tx)](https://builder0x69.io)
-* [mev-rs - gateway to a network of block builders](https://github.com/ralexstokes/mev-rs)
-* [fat stats for builders through mev-boost](https://www.mevpanda.com/)
-* [decentralizing the builder role, by vitalik](https://hackmd.io/@vbuterin/distributed_builders#/)
-* [mev and the rise of builders, by galaxy](https://www.galaxy.com/research/whitepapers/mev-the-rise-of-the-builders/)
-* [block builder decentralization is coming, but maybe not so soon, by ballsyalchemist](https://bittokoin.substack.com/p/block-builder-decentralization-is)
-* [the role of block building in the future of ethereum, by d. der werff](https://frontier.tech/beyond-extraction)
-* [running geth within sgx, by flashbots](https://writings.flashbots.net/geth-inside-sgx)
-* [rated.network's builders dashboard](https://www.rated.network/builders?network=mainnet&timeWindow=1d&page=1)
-* [buildernet, by flashbots, beaverbuild, nethermind (2024)](https://buildernet.org/blog/introducing-buildernet)
-* [eip-7727, enable meta transactions to order other transactions, by l. johnson (2024)](https://eips.ethereum.org/EIPS/eip-7727)
-* [from competition to centralization: the oligopoly in ethereum block building auctions, by wu et al. (2024)](https://arxiv.org/pdf/2412.18074)
+* **[builder specs, by the ef](https://github.com/ethereum/builder-specs)**
+* **[builder opens source, by flashbots](https://github.com/flashbots/builder)**
+* **[mev-rs: gateway to a network of block builders](https://github.com/ralexstokes/mev-rs)**
+* **[flashbots block building algorithm (2022)](https://writings.flashbots.net/searching-post-merge#blockbuilding-algorithm)**
+
+<br>
+
+#### builders, data, stats
+
+* **[fat stats for builders through mev-boost](https://www.mevpanda.com/)**
+* **[rated.network's builders dashboard](https://www.rated.network/builders?network=mainnet&timeWindow=1d&page=1)**
+* **[builder69.io endpoint for searchers (bundle/tx)](https://builder0x69.io)**
+* **[etherscan blocks](https://etherscan.io/blocks)**, **[mev blocks](https://etherscan.io/blocks/label/mev-block)**, and **[mev builders](https://etherscan.io/accounts/label/mev-builder)**
+* **[mev and the rise of builders, by galaxy (2023)](https://www.galaxy.com/research/whitepapers/mev-the-rise-of-the-builders/)**
+
+<br>
+
+#### decentralizing
+
+* **[decentralizing the builder role, by vub (2023)](https://hackmd.io/@vbuterin/distributed_builders#/)**
+* **[the role of block building in the future of ethereum, by d. der werff (2023)](https://frontier.tech/beyond-extraction)**
+* **[block builder decentralization is coming, but maybe not so soon, by ballsyalchemist (2023)](https://bittokoin.substack.com/p/block-builder-decentralization-is)**
+* **[buildernet, by flashbots, beaverbuild, nethermind (2024)](https://buildernet.org/blog/introducing-buildernet)**
+
+<br>
+
+#### research
+
+* **[running geth within sgx, by flashbots (2022)](https://writings.flashbots.net/geth-inside-sgx)**
+* **[eip-7727, enable meta transactions to order other transactions, by l. johnson (2024)](https://eips.ethereum.org/EIPS/eip-7727)**
+* **[from competition to centralization: the oligopoly in ethereum block building auctions, by wu et al. (2024)](https://arxiv.org/pdf/2412.18074)**
     * empirical game theoretic analysis exploring builders' strategic bidding incentives in MEV-Boost auctions, focusing on how advantages in network latency and access to MEV opportunities affect builders' bidding behaviors and auction outcomes.
+
+<br>
+
+#### talks
+
+* **[mev space #2: the searcher integration saga, by eigenphi (2025)](https://www.youtube.com/watch?v=gMhnyXp0CQM)**
  
