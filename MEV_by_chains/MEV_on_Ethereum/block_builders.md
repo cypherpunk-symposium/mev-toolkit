@@ -44,5 +44,8 @@
 * [the role of block building in the future of ethereum, by d. der werff](https://frontier.tech/beyond-extraction)
 * [running geth within sgx, by flashbots](https://writings.flashbots.net/geth-inside-sgx)
 * [rated.network's builders dashboard](https://www.rated.network/builders?network=mainnet&timeWindow=1d&page=1)
-* [buildernet, by flashbots, beaverbuild, nethermind](https://buildernet.org/blog/introducing-buildernet)
-* [eip-7727, enable meta transactions to order other transactions, by l. johnson](https://eips.ethereum.org/EIPS/eip-7727)
+* [buildernet, by flashbots, beaverbuild, nethermind (2024)](https://buildernet.org/blog/introducing-buildernet)
+* [eip-7727, enable meta transactions to order other transactions, by l. johnson (2024)](https://eips.ethereum.org/EIPS/eip-7727)
+* [from competition to centralization: the oligopoly in ethereum block building auctions, by wu et al. (2024)](https://arxiv.org/pdf/2412.18074)
+    * empirical game theoretic analysis exploring builders' strategic bidding incentives in MEV-Boost auctions, focusing on how advantages in network latency and access to MEV opportunities affect builders' bidding behaviors and auction outcomes.
+ 
