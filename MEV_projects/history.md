@@ -6,6 +6,7 @@
 
 - **[⭐️⭐⭐⭐⭐ automated market making and loss-versus-rebalancing, by j. milionis et al.](https://arxiv.org/pdf/2208.06046)**
 - **[⭐️⭐⭐⭐ priority is all you need, by d. robinson et al.](https://www.paradigm.xyz/2024/06/priority-is-all-you-need)**
+- **[⭐️⭐⭐⭐ introduction to mev mitigation, by julian ma](https://mirror.xyz/julianma.eth/rcXa7B5y14tbfFWwOqSVHcNOzzmNKOG0EfZJAn_qom4)**
 
 #### 2023
 
