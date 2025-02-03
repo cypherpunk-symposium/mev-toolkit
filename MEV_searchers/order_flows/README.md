@@ -1,15 +1,12 @@
-## order flows
+## order flows and stuff
 
 <br>
 
-
-> *["orderflow nontoxic is when expected future price does not change given the order’s existence; that is, the trade provides no predictive signal for the expected price in the future."](https://xenophonlabs.com/papers/uniswap_valuing_orderflow.pdf)*
+##### *["orderflow nontoxic is when expected future price does not change given the order’s existence; that is, the trade provides no predictive signal for the expected price in the future."](https://xenophonlabs.com/papers/uniswap_valuing_orderflow.pdf)* - xenhphonlabs
 
 <br>
-
 
 * **[exclusive order flows](exclusive_order_flows.md)**
-* **[payment for order flows (pfof)](101.md)**
 * **[projects addressing eof primitives](projects.md)**
 
 <br>
@@ -20,6 +17,7 @@
 
 <br>
 
+* **[deeply intents, anoma's apriori's new podcast (2025)](http://youtube.com/@DeeplyIntents)**
 * **[a brief history of decentralized order flow acquisition, by valantis labs (2025)](https://mirror.xyz/valantisxyz.eth/C49rGRQnorQQluV0zItyfJd1zyolc0WfWqyo9V6jaL0)**
 * **[illuminating ethereum's order flow landscape, by a. lu (2024)](https://writings.flashbots.net/illuminate-the-order-flow)**
 * **[illuminating trust reliance in ethereum's transaction supply chain, by eden (2024)](https://edennetwork.io/blog/illuminating-trust-reliance-in-ethereums-transaction-supply-chain)**
