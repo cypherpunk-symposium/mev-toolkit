@@ -1,10 +1,12 @@
-## anatomy of mev bots
+## anatomy of mev agents
 
 <br>
 
 ### chapters
 
 <br>
+
+##### (history of) searching
 
 * **[artermis framework](https://www.paradigm.xyz/2023/05/artemis)**
 * **[bot racer](https://github.com/DadeKuma/bot-racer)**
@@ -16,8 +18,12 @@
 * **[sandwichors](bots/sandwichors.md)**
 * **[snipers](bots/snipers.md)**
 * **[tradors](bots/tradors.md)**
-* **[cow solvers](bots/cow-solvers.md)**
 * **[statistical arbers](bots/stat-arbers.md)**
+
+##### solvers
+
+* **[solving for protocols](solvers.md)**
+* **[cow solvers](bots/cow-solvers.md)**
 
 <br>
 
