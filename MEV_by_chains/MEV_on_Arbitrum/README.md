@@ -14,30 +14,36 @@
 * optimistic rollup, with no mempool for bots to frontrun, but searchers can listen the queue through websockets and backrun, etc...
 * currently has a centralized sequencer and whitelisted proof validation while having upgradable contracts
 * faster tx processing: ethereum is operating under 15-20 tps, while the arbitrum network can process ~40 tps
-* lower tx fees: in ethereum, a significant percentage of validators need to confirm the genuineness of a tx; arbitrum average fee is $~.2 compared to $6.5 (source: [nansen](https://pro.nansen.ai/multichain/eth-vs-arbitrum))
+* lower tx fees: in ethereum, a significant percentage of validators need to confirm the genuineness of a tx; arbitrum average fee is $~.2 compared to $6.5 (source: **[nansen](https://pro.nansen.ai/multichain/eth-vs-arbitrum)**)
  
 <br>
 
 ----
 
-### in this dir
+### chapters
 
 <br>
 
-* [gmx and glp vaults](gmx)
-* [fair order sequencing](fair_ordering_sequencing)
+* **[gmx and glp vaults](gmx)**
+* **[fair order sequencing](fair_ordering_sequencing)**
 
 <br>
 
 ---
 
-### resources
+### cool resources
 
 <br>
 
-* [transaction ordering policy](https://research.arbitrum.io/t/transaction-ordering-policy/127)
-* [arbitrum bridge tutorial](https://arbitrum.io/bridge-tutorial/)
-* [arbitrum gas fee, by dune](https://dune.com/blog/fueling-gas-spells-arbitrum)
-* [time boost: a new tx ordering policy proposal](https://research.arbitrum.io/t/time-boost-a-new-transaction-ordering-policy-proposal/8173)
-* [a closer look at the sequencer's role and mev, by p. mccorry](https://docs.google.com/presentation/d/1bU01VT7YyLXT0Bzxo0dRNYSEohmuKxY8ziErTviIsng/edit#slide=id.g1255a01e809_0_0)
-* [arbtrium latency war drama, feb/23](https://twitter.com/snoopy_mev/status/1629283898453811200?s=20)
+* **[understanding lvr on l2 blockchains, by e. hu (2025)](https://x.com/elenahoolu/status/1883634105637888030)**
+* **[arbtrium latency war drama, by snoopy (2023)](https://twitter.com/snoopy_mev/status/1629283898453811200?s=20)**
+* **[time boost: a new tx ordering policy proposal, by edfelten (2023)](https://research.arbitrum.io/t/time-boost-a-new-transaction-ordering-policy-proposal/8173)**
+* **[transaction ordering policy, by edfelten (2022)](https://research.arbitrum.io/t/transaction-ordering-policy/127)**
+
+<br>
+
+##### docs
+
+* **[arbitrum gas fee, by dune](https://dune.com/blog/fueling-gas-spells-arbitrum)**
+* **[arbitrum bridge tutorial](https://arbitrum.io/bridge-tutorial/)**
+* **[a closer look at the sequencer's role and mev, by p. mccorry](https://docs.google.com/presentation/d/1bU01VT7YyLXT0Bzxo0dRNYSEohmuKxY8ziErTviIsng/edit#slide=id.g1255a01e809_0_0)**
