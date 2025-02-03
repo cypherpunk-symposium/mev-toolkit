@@ -57,7 +57,8 @@
 
 ### II. code up your (learning and experimental) bots
 
-* **[build your mev bot](MEV_searchers)**
+* **[build your mev searcher](MEV_searchers)**
+* **[build your mev solver](MEV_searchers/solvers.md)**
 * **[mempools monitoring](MEV_searchers/mempool_monitoring)**
 * **[liquidity indexing](MEV_searchers/indexing)**
 * **[latency optimization](MEV_searchers/latency)**
@@ -66,15 +67,16 @@
 
 ### III. understand the chains and how mev differs on each of them
 
-* **[mev on solana](MEV_by_chains/MEV_on_Solana)**
-* **[mev on bitcoin](MEV_by_chains/MEV_on_Bitcoin)**
+
 * **[mev on ethereum](MEV_by_chains/MEV_on_Ethereum)**
-* **[mev on cosmos](MEV_by_chains/MEV_on_Cosmos)**
-* **[mev on polygon](MEV_by_chains/MEV_on_Polygon)**
 * **[mev on arbitrum](MEV_by_chains/MEV_on_Arbitrum)**
 * **[mev on optimism](MEV_by_chains/MEV_on_Optimism)**
-* **[mev on bsc chain](MEV_by_chains/MEV_on_BSC)**
+* **[mev on polygon](MEV_by_chains/MEV_on_Polygon)**
 * **[mev on avalanche](MEV_by_chains/MEV_on_Avalanche)**
+* **[mev on bitcoin](MEV_by_chains/MEV_on_Bitcoin)**
+* **[mev on bsc chain](MEV_by_chains/MEV_on_BSC)**
+* **[mev on solana](MEV_by_chains/MEV_on_Solana)**
+* **[mev on cosmos](MEV_by_chains/MEV_on_Cosmos)**
 
 
 ### IV. understand (and join) the space
