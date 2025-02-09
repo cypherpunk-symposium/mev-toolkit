@@ -36,10 +36,13 @@
 
 ---
 
-### external resources
+### cool resources
 
 <br>
 
+* **[cross-chain arbitrages in the realm of blockchain interoperability, by b. oz et al. (2025)](https://arxiv.org/abs/2501.173350)**
+   * systematic study of two non-atomic cross-chain arbitrage strategies (sequence-independent arbitrage and sequence-dependent arbitrage.
+   * "analysis reveals that 32.88 % of ethereum legs in crosschain arbitrages were submitted privately (private mempools), yielding an average profit of 82.5 USD, compared to 78.35 USD for public transactions."
 * **[anatomy of stat bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/stat-arbers.md)**
 * **[`addLiquidity()` sandwich attack optimization problem](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/oTdSfZEBdp9WPCNaKqDKCkuDJ9neR2UISc_5mMjZKYU)**
 * **[dex arbitrage, mathematical optimizations & me, by noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)**
