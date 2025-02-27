@@ -17,6 +17,8 @@
 
 <br>
 
+* **[open intents framework (2025)](https://www.openintents.xyz/)**
+* **[the alchemy of ass with apriori and thogard (2025)](https://www.youtube.com/watch?v=pJaLS3nOroo)**
 * **[deeply intents, anoma's apriori's new podcast (2025)](http://youtube.com/@DeeplyIntents)**
 * **[a brief history of decentralized order flow acquisition, by valantis labs (2025)](https://mirror.xyz/valantisxyz.eth/C49rGRQnorQQluV0zItyfJd1zyolc0WfWqyo9V6jaL0)**
 * **[illuminating ethereum's order flow landscape, by a. lu (2024)](https://writings.flashbots.net/illuminate-the-order-flow)**
