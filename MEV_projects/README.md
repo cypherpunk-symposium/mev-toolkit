@@ -75,6 +75,11 @@ here are some ideas (and below are some of the projects working on specific prob
 
 <br>
 
+* **[multiple concurrent proposers: why and how, by p. garimidi et al. (2025)](arxiv.org/abs/2509.23984)**
+    - approach for mev mitigation from the market structure of a single proposer monopolistic control over tx ordering and inclusion
+    - "instead of one leader proposing all the transactions for a slot, multiple proposers each submit a batch of transactions for the same slot" + "a committee of relays mediates between proposers and the consensus leader" + "relays receive shreds, HECC-encoded pieces of batches, and create attestations that certify the timely receipt of shreds and vouch for the availability of the batches to the leader"
+    - "the leader can incorporate batches by reference into its block, even before learning the batches’ contents, and with confidence that once consensus is reached, these batches can be reconstructed from the shreds stored at relays. In addition, the relays constrain the leader’s degrees of freedom in choosing which batches to include in the block, by requiring that the leader include attestations from “many” relays to form a valid block, which in turn forces the leader to incorporate the batches of honest proposers"
+    - "reclaims 'MCP' (multiple concurrent proposers) from the cursed ai protocol" 
 * **[rules and strategies of a protocol, by data always](https://dataalways.substack.com/p/rules-and-strategies-of-a-protocol)**
 * **[quantification of mev sharing designs (ofas), by d. sui](https://docs.google.com/presentation/d/1_pKKkUr_D-OvR2Kah56B0C0LYdO6zMECftBA_q7bM2c/edit#slide=id.g21fe09f5970_0_325)**
 * **[projects addressing private order flows primitives](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/private_order_flows/projects.md)**
@@ -82,3 +87,5 @@ here are some ideas (and below are some of the projects working on specific prob
 * **[mev capturing amm, by josojo](https://ethresear.ch/t/mev-capturing-amm-mcamm/13336)**
 * **[mev-protected cross-chain swaps, by cashmere](https://cashmerelabs.medium.com/cashmerelabs-testnet-1-0-2c11e23f36)**
 * **[hot, a new mev aware amm design, by arrakis finance](https://github.com/ArrakisFinance/research/blob/main/HOTAMM-Whitepaper.pdf)**
+* * **[bookmark list for consensus researchers](https://collective.flashbots.net/t/bookmarks-relevant-for-consensus-researchers/1204)** (nice list from flashbots on canonical papers on consensus)
+* **[the engineer's guide to blockchain finality, by b. samuels](https://blog.trailofbits.com/2023/08/23/the-engineers-guide-to-blockchain-finality/)**
